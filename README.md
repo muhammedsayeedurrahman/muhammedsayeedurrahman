@@ -2,7 +2,7 @@
 
 # Muhammed Sayeedur Rahman S
 
-**Full-Stack Developer | AI/ML Enthusiast | Chennai, India**
+** | AI/ML Enthusiast | Chennai, India**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/muhammedsayeedurrahman/Portfolio-Website-)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedsayeedurrahman@gmail.com)
