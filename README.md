@@ -9,17 +9,6 @@
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=muhammedsayeedurrahman&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
-<!-- Availability Status -->
-<br/><br/>
-<img src="https://img.shields.io/badge/🟢_Available_for_Full--Time_Roles-Open-success?style=for-the-badge" alt="Available for Full-Time"/>
-<img src="https://img.shields.io/badge/🟢_Open_for_Freelance_Projects-Available-success?style=for-the-badge" alt="Open for Freelance"/>
-
-<br/><br/>
-
-**💼 Seeking:** AI/ML Engineer | Data Scientist | Healthcare/Legal Tech Roles
-**💰 Freelancing:** AI Consulting • Model Development • NLP Solutions
-**📅 Availability:** Immediate Start • Remote/Hybrid (Chennai, India)
-
 <!-- Connect Badges -->
 <p>
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -47,29 +36,19 @@ class AIEngineer:
         self.role = "AI Engineer & Data Scientist"
         self.location = "Chennai, India 🇮🇳"
         self.education = "B.Tech in AI & Data Science"
-        self.experience = "3+ Production AI Systems"
 
     def current_work(self):
         return {
             "focus": "Building AI for Social Impact",
             "domains": ["Medical AI", "Legal Tech", "Voice AI"],
-            "projects": ["LAWTRIX", "Chakravyuha", "ExplainMyXray"],
-            "impact": "12+ businesses served, 10K+ invoices processed"
+            "projects": ["LAWTRIX", "Chakravyuha", "ExplainMyXray"]
         }
 
     def tech_stack(self):
         return {
             "languages": ["Python", "TypeScript", "Kotlin"],
             "ml_frameworks": ["PyTorch", "TensorFlow", "Transformers"],
-            "specialties": ["NLP", "Computer Vision", "RL", "Voice AI"],
-            "deployment": ["FastAPI", "Docker", "AWS", "PostgreSQL"]
-        }
-
-    def achievements(self):
-        return {
-            "kaggle": "MedGemma Challenge Top 20%",
-            "hackathons": ["Meta PyTorch", "Odoo x NMIT", "HackHustle"],
-            "metrics": "96.5% AI accuracy, ₹2.5L+ savings delivered"
+            "specialties": ["NLP", "Computer Vision", "RL", "Voice AI"]
         }
 
     def say_hi(self):
@@ -78,45 +57,6 @@ class AIEngineer:
 me = AIEngineer()
 me.say_hi()
 ```
-
----
-
-## 💼 Experience & Education
-
-### 🎓 Education
-**B.Tech in Artificial Intelligence & Data Science**
-B.S. Abdur Rahman Crescent Institute of Science & Technology, Chennai
-*2022 - 2026 (Expected)*
-**Focus:** Machine Learning, Deep Learning, NLP, Computer Vision
-
-### 💻 Project Experience
-
-**AI Engineer** | LAWTRIX - AI Compliance Automation
-*January 2024 - Present*
-- Built production AI system for MSME payment law compliance using BERT and NLP
-- **Impact:** Deployed to 12+ businesses, processing 10,000+ invoices monthly
-- **Results:** 96.5% accuracy in legal document parsing, saved ₹2.5L+ in penalties
-- **Stack:** Python, FastAPI, PyTorch, BERT, PostgreSQL, Docker, AWS
-
-**ML Research** | ExplainMyXray - Medical AI System
-*February 2026*
-- Developed chest X-ray interpretation AI using Google MedGemma-4B
-- **Performance:** 0.842 AUC-ROC across 14 thoracic pathologies
-- **Recognition:** Kaggle MedGemma Impact Challenge (Top 20% private leaderboard)
-- **Stack:** PyTorch, DenseNet-121, Faster R-CNN, Medical Imaging
-
-**Voice AI Engineer** | Chakravyuha - Multilingual Legal Assistant
-*August 2025 - Present*
-- Created voice-first AI assistant supporting 5 Indian languages
-- **Performance:** 94% intent classification, 12.3% Word Error Rate (Hindi)
-- **Innovation:** Agentic AI system with multi-step legal complaint drafting
-- **Stack:** Whisper ASR, mT5, Hugging Face, NLP, Pinecone Vector DB
-
-### 🏆 Notable Achievements
-- 🥇 **Meta PyTorch OpenEnv Hackathon** - RL for logistics optimization
-- 🥇 **Odoo x NMIT Hackathon 2026** - HRMS platform development
-- 🥇 **Kaggle MedGemma Impact Challenge** - Medical AI submission (Top 20%)
-- 🥇 **HackHustle 2026** - AI logistics intelligence platform
 
 ---
 
@@ -220,19 +160,16 @@ B.S. Abdur Rahman Crescent Institute of Science & Technology, Chennai
       <img src="https://img.icons8.com/color/96/000000/medical-heart.png" width="64"/>
       <br><b>Medical AI</b>
       <br>Disease detection & diagnosis
-      <br><sub>0.84+ AUC-ROC achieved</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/color/96/000000/law.png" width="64"/>
       <br><b>Legal Tech</b>
       <br>AI-powered legal assistance
-      <br><sub>12+ businesses served</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/color/96/000000/voice-recognition.png" width="64"/>
       <br><b>Voice AI</b>
       <br>Multilingual voice systems
-      <br><sub>5 languages supported</sub>
     </td>
   </tr>
 </table>
@@ -245,12 +182,12 @@ B.S. Abdur Rahman Crescent Institute of Science & Technology, Chennai
 
 <div align="center">
 
-| 🏆 Achievement | 📅 Date | 🔗 Link | 📊 Result |
-|---------------|---------|---------|-----------|
-| **Kaggle MedGemma Impact Challenge** | Feb 2026 | [ExplainMyXray](https://github.com/muhammedsayeedurrahman/ExplainMyXray) | Top 20% (Private LB) |
-| **Meta PyTorch OpenEnv Hackathon** | Aug 2026 | [MOGUL Logistics](https://github.com/muhammedsayeedurrahman/mogul-logistics) | Winner |
-| **Odoo x NMIT Hackathon 2026** | Aug 2026 | [Dayflow HRMS](https://github.com/muhammedsayeedurrahman/dayflow-hrms-2026) | Top 3 |
-| **HackHustle 2026** | Mar 2026 | [SmartRoute](https://github.com/muhammedsayeedurrahman/SmartRoute) | Finalist |
+| 🏆 Achievement | 📅 Date | 🔗 Link |
+|---------------|---------|---------|
+| **Kaggle MedGemma Impact Challenge** | Feb 2026 | [ExplainMyXray](https://github.com/muhammedsayeedurrahman/ExplainMyXray) |
+| **Meta PyTorch OpenEnv Hackathon** | Aug 2026 | [MOGUL Logistics](https://github.com/muhammedsayeedurrahman/mogul-logistics) |
+| **Odoo x NMIT Hackathon 2026** | Aug 2026 | [Dayflow HRMS](https://github.com/muhammedsayeedurrahman/dayflow-hrms-2026) |
+| **HackHustle 2026** | Mar 2026 | [SmartRoute](https://github.com/muhammedsayeedurrahman/SmartRoute) |
 
 </div>
 
@@ -320,7 +257,6 @@ I'm passionate about:
 **Open to:**
 - Full-time AI/ML Engineering roles
 - Data Science positions (Healthcare, LegalTech)
-- Freelance AI consulting projects
 - Research collaborations
 - Open source contributions
 
@@ -374,8 +310,7 @@ const funFacts = {
     coffee: "☕ Powered by coffee and curiosity",
     language: "🗣️ Speaks: Tamil, English, Hindi, Python",
     hobbies: "🎯 Chess, Cricket, Building AI that matters",
-    motto: "💡 'AI should serve humanity, not replace it'",
-    impact: "📊 12+ businesses, 10K+ invoices, ₹2.5L+ saved"
+    motto: "💡 'AI should serve humanity, not replace it'"
 };
 ```
 
