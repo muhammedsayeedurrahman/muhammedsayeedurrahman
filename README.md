@@ -11,10 +11,10 @@
 
 <!-- Connect Badges -->
 <p>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammed-sayeedur-rahman-439389324"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:muhammedsayeedurrahman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://kaggle.com/your-profile"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/sayedash70"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
+  <a href="https://www.github.com/muhammedsayeedurrahman"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 </div>
@@ -277,19 +277,19 @@ I'm passionate about:
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://linkedin.com/in/your-profile">
+      <a href="https://www.linkedin.com/in/muhammed-sayeedur-rahman-439389324">
         <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="64"/>
         <br><b>LinkedIn</b>
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://kaggle.com/your-profile">
+      <a href="https://www.kaggle.com/sayedash70">
         <img src="https://img.icons8.com/windows/96/000000/kaggle.png" width="64"/>
         <br><b>Kaggle</b>
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://twitter.com/your-handle">
+      <a href="https://www.github.com/muhammedsayeedurrahman">
         <img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="64"/>
         <br><b>Twitter</b>
       </a>
