@@ -64,7 +64,7 @@ me.say_hi()
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=muhammedsayeedurrahman&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://sayeed-github-profile-trophy.vercel.app/?username=muhammedsayeedurrahman&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -76,19 +76,19 @@ me.say_hi()
 
 <!-- Project Cards -->
 <a href="https://github.com/muhammedsayeedurrahman/LAWTRIX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=LAWTRIX&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
+  <img align="center" src="https://sayeed-github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=LAWTRIX&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
 </a>
 
 <a href="https://github.com/muhammedsayeedurrahman/chakravyuha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=chakravyuha&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
+  <img align="center" src="https://sayeed-github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=chakravyuha&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
 </a>
 
 <a href="https://github.com/muhammedsayeedurrahman/ExplainMyXray">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=ExplainMyXray&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
+  <img align="center" src="https://sayeed-github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=ExplainMyXray&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
 </a>
 
 <a href="https://github.com/muhammedsayeedurrahman/mogul-logistics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=mogul-logistics&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
+  <img align="center" src="https://sayeed-github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=mogul-logistics&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
 </a>
 
 </div>
@@ -136,15 +136,15 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammedsayeedurrahman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://sayeed-github-readme-stats.vercel.app/api?username=muhammedsayeedurrahman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsayeedurrahman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+<img height="180em" src="https://sayeed-github-readme-stats.vercel.app/api/top-langs/?username=muhammedsayeedurrahman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
 
 <!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedsayeedurrahman&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9"/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedsayeedurrahman&bg_color=0D1117&color=58A6FF&line=79C0FF&point=C9D1D9&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph-gamma-flame.vercel.app/graph?username=muhammedsayeedurrahman&bg_color=0D1117&color=58A6FF&line=79C0FF&point=C9D1D9&area=true&hide_border=true"/>
 
 </div>
 
@@ -215,30 +215,6 @@ me.say_hi()
 ## 💬 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎵 Currently Vibing To
-
-[![Spotify](https://novatorem-phi-puce.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
-
-</div>
-
----
-
-<div align="center">
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Built a Voice-First Legal Assistant for India](https://your-blog.com/post-1)
-- [Achieving 94% Accuracy in Medical X-ray Analysis with MedGemma](https://your-blog.com/post-2)
-- [Reinforcement Learning for Real-World Supply Chains](https://your-blog.com/post-3)
-<!-- BLOG-POST-LIST:END -->
 
 </div>
 
