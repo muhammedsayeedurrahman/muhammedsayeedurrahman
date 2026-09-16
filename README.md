@@ -27,44 +27,20 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="middle">
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Muhammed Sayeedur Rahman"
-        self.role = "AI Engineer & Data Scientist"
-        self.location = "Chennai, India 🇮🇳"
-        self.education = "B.Tech, AI & Data Science"
+**AI Engineer & Data Scientist** based in Chennai, India — I build applied ML products end-to-end, from model to production, across healthcare, legal-tech, and voice AI.
 
-    def current_work(self):
-        return {
-            "focus": "AI for Social Impact",
-            "domains": ["Medical AI", "Legal Tech",
-                        "Voice AI"],
-            "projects": ["LAWTRIX", "Chakravyuha",
-                         "ExplainMyXray"]
-        }
+- 🏆 4x hackathon finalist/winner — Kaggle MedGemma Impact Challenge, Meta PyTorch OpenEnv, Odoo × NMIT 2026, HackHustle 2026
+- 🩺 **ExplainMyXray** — diagnostic AI for underserved clinics
+- ⚖️ **LAWTRIX** — AI-powered legal assistant
+- 🗣️ **Chakravyuha** — multilingual voice AI
 
-    def tech_stack(self):
-        return {
-            "languages": ["Python", "TypeScript",
-                          "Kotlin"],
-            "ml": ["PyTorch", "TensorFlow",
-                   "Transformers"],
-            "focus": ["NLP", "CV", "RL", "Voice AI"]
-        }
-
-    def say_hi(self):
-        print("Thanks for stopping by! 🚀")
-
-me = AIEngineer()
-me.say_hi()
-```
+💼 Open to full-time AI/ML roles and freelance ML/data-science work — reach out via LinkedIn or email above.
 
 </td>
-<td width="45%" valign="top" align="center">
-<img alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<td width="42%" valign="middle" align="center">
+<img alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 </td>
 </tr>
 </table>
