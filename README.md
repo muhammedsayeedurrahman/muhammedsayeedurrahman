@@ -146,17 +146,17 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/medical-heart.png" width="64"/>
+      <img src="https://img.icons8.com/color/96/medical-heart.png" width="64"/>
       <br><b>Medical AI</b>
       <br>Disease detection & diagnosis
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/law.png" width="64"/>
+      <img src="https://img.icons8.com/color/96/law.png" width="64"/>
       <br><b>Legal Tech</b>
       <br>AI-powered legal assistance
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/voice-recognition.png" width="64"/>
+      <img src="https://img.icons8.com/color/96/voice-recognition.png" width="64"/>
       <br><b>Voice AI</b>
       <br>Multilingual voice systems
     </td>
@@ -237,25 +237,25 @@ I'm passionate about:
   <tr>
     <td align="center" width="25%">
       <a href="mailto:muhammedsayeedurrahman@gmail.com">
-        <img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="64"/>
+        <img src="https://img.icons8.com/fluency/96/gmail.png" width="64"/>
         <br><b>Email</b>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://www.linkedin.com/in/muhammed-sayeedur-rahman-439389324">
-        <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="64"/>
+        <img src="https://img.icons8.com/fluency/96/linkedin.png" width="64"/>
         <br><b>LinkedIn</b>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://www.kaggle.com/sayedash70">
-        <img src="https://img.icons8.com/windows/96/000000/kaggle.png" width="64"/>
+        <img src="https://img.icons8.com/windows/96/kaggle.png" width="64"/>
         <br><b>Kaggle</b>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://www.github.com/muhammedsayeedurrahman">
-        <img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="64"/>
+        <img src="https://img.icons8.com/fluency/96/twitter.png" width="64"/>
         <br><b>Twitter</b>
       </a>
     </td>
