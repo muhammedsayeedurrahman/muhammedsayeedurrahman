@@ -25,9 +25,9 @@
 
 ### 🌟 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-</div>
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```python
 class AIEngineer:
@@ -35,28 +35,41 @@ class AIEngineer:
         self.name = "Muhammed Sayeedur Rahman"
         self.role = "AI Engineer & Data Scientist"
         self.location = "Chennai, India 🇮🇳"
-        self.education = "B.Tech in AI & Data Science"
+        self.education = "B.Tech, AI & Data Science"
 
     def current_work(self):
         return {
-            "focus": "Building AI for Social Impact",
-            "domains": ["Medical AI", "Legal Tech", "Voice AI"],
-            "projects": ["LAWTRIX", "Chakravyuha", "ExplainMyXray"]
+            "focus": "AI for Social Impact",
+            "domains": ["Medical AI", "Legal Tech",
+                        "Voice AI"],
+            "projects": ["LAWTRIX", "Chakravyuha",
+                         "ExplainMyXray"]
         }
 
     def tech_stack(self):
         return {
-            "languages": ["Python", "TypeScript", "Kotlin"],
-            "ml_frameworks": ["PyTorch", "TensorFlow", "Transformers"],
-            "specialties": ["NLP", "Computer Vision", "RL", "Voice AI"]
+            "languages": ["Python", "TypeScript",
+                          "Kotlin"],
+            "ml": ["PyTorch", "TensorFlow",
+                   "Transformers"],
+            "focus": ["NLP", "CV", "RL", "Voice AI"]
         }
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build AI that matters 🚀")
+        print("Thanks for stopping by! 🚀")
 
 me = AIEngineer()
 me.say_hi()
 ```
+
+</td>
+<td width="45%" valign="top" align="center">
+<img alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
