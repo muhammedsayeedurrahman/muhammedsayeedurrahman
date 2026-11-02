@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Muhammed%20Sayeedur%20Rahman&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20Building%20the%20Future%20with%20AI&descSize=20&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Muhammed%20Sayeedur%20Rahman&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20Deployed%20ML%20Systems&descSize=20&descAlignY=55"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+%7C+Data+Scientist+%7C+Problem+Solver;Medical+AI+%E2%80%A2+Legal+Tech+%E2%80%A2+Social+Impact;Voice+AI+%E2%80%A2+NLP+%E2%80%A2+Reinforcement+Learning;Open+to+AI%2FML+roles+%26+freelance+projects+%F0%9F%9A%80" alt="Typing SVG" /></a>
@@ -23,45 +23,25 @@
 
 <div align="center">
 
-### 🌟 About Me
-
-<table>
-<tr>
-<td width="58%" valign="middle">
+### About Me
 
 **AI Engineer & Data Scientist** based in Chennai, India — I build applied ML products end-to-end, from model to production, across healthcare, legal-tech, and voice AI.
 
-- 🏆 4x hackathon finalist/winner — Kaggle MedGemma Impact Challenge, Meta PyTorch OpenEnv, Odoo × NMIT 2026, HackHustle 2026
-- 🩺 **ExplainMyXray** — diagnostic AI for underserved clinics
-- ⚖️ **LAWTRIX** — AI-powered legal assistant
-- 🗣️ **Chakravyuha** — multilingual voice AI
-- 🎙️ **Hearback** — voice agent that relays only verified clinical facts
-- 📱 **SmartLease Edge** — offline on-device property inspection on Snapdragon
+- Hackathon builds across healthcare, legal tech, logistics and voice AI, including the Kaggle MedGemma Impact Challenge and Smart India Hackathon 2026
+- **ExplainMyXray** — chest X-ray interpretation with disease localisation (MedGemma-4B)
+- **LAWTRIX** — compliance engine for Indian MSME payment laws
+- **Chakravyuha** — voice-first, multilingual legal assistant
+- **Hearback** — voice agent that relays only verified clinical facts
+- **ShadowNav** — smartphone-only dead reckoning through GPS blackouts (SIH26168, ISRO)
 
-💼 Open to full-time AI/ML roles and freelance ML/data-science work — see [my portfolio](https://portfolio-omega-ruddy-94.vercel.app) or reach out via LinkedIn or email above.
+Open to full-time AI/ML roles and freelance ML/data-science work — see [my portfolio](https://portfolio-omega-ruddy-94.vercel.app) or reach out via LinkedIn or email above.
 
-</td>
-<td width="42%" valign="middle" align="center">
-<img alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-</td>
-</tr>
-</table>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://sayeed-github-profile-trophy.vercel.app/?username=muhammedsayeedurrahman&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -75,6 +55,10 @@
 
 <a href="https://github.com/muhammedsayeedurrahman/hearback">
   <img align="center" src="https://sayeed-github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=hearback&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
+</a>
+
+<a href="https://github.com/muhammedsayeedurrahman/ShadowNav">
+  <img align="center" src="https://sayeed-github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=ShadowNav&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
 </a>
 
 <a href="https://github.com/muhammedsayeedurrahman/LAWTRIX">
@@ -93,17 +77,13 @@
   <img align="center" src="https://sayeed-github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=smartlease-edge-chennai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
 </a>
 
-<a href="https://github.com/muhammedsayeedurrahman/heatguard">
-  <img align="center" src="https://sayeed-github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=heatguard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
-</a>
-
 </div>
 
 ---
 
 <div align="center">
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -139,7 +119,7 @@
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## GitHub Activity
 
 <!-- GitHub Stats -->
 <img height="180em" src="https://sayeed-github-readme-stats.vercel.app/api?username=muhammedsayeedurrahman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
@@ -153,44 +133,17 @@
 
 ---
 
-<div align="center">
-
-## 🎯 What I'm Working On
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/medical-heart.png" width="64"/>
-      <br><b>Medical AI</b>
-      <br>Disease detection & diagnosis
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/law.png" width="64"/>
-      <br><b>Legal Tech</b>
-      <br>AI-powered legal assistance
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/voice-recognition.png" width="64"/>
-      <br><b>Voice AI</b>
-      <br>Multilingual voice systems
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 🏅 Hackathons & Challenges
+## Hackathons & Challenges
 
 <div align="center">
 
-| 🏆 Achievement | 📅 Date | 🔗 Link |
+| Event | Date | Project |
 |---------------|---------|---------|
 | **Kaggle MedGemma Impact Challenge** | Feb 2026 | [ExplainMyXray](https://github.com/muhammedsayeedurrahman/ExplainMyXray) |
 | **Meta PyTorch OpenEnv Hackathon** | Aug 2026 | [MOGUL Logistics](https://github.com/muhammedsayeedurrahman/mogul-logistics) |
 | **Odoo x NMIT Hackathon 2026** | Aug 2026 | [Dayflow HRMS](https://github.com/muhammedsayeedurrahman/dayflow-hrms-2026) |
 | **HackHustle 2026** | Mar 2026 | [SmartRoute](https://github.com/muhammedsayeedurrahman/SmartRoute) |
+| **Smart India Hackathon 2026** — ISRO, SIH26168 | Sep 2026 | [ShadowNav](https://github.com/muhammedsayeedurrahman/ShadowNav) |
 | **iQOO Hackathon 2026** — Chennai City Battle | Sep 2026 | [SmartLease Edge](https://github.com/muhammedsayeedurrahman/smartlease-edge-chennai) |
 | **DataForge × Pathway × Rime** | Sep 2026 | [Hearback](https://github.com/muhammedsayeedurrahman/hearback) |
 | **WeMakeDevs Hackathon** | Oct 2026 | [HeatGuard](https://github.com/muhammedsayeedurrahman/heatguard) |
@@ -201,7 +154,7 @@
 
 <div align="center">
 
-## 📈 Contribution Graph
+## Contributions
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammedsayeedurrahman&theme=tokyonight" alt="Contribution Graph"/>
 
@@ -218,18 +171,18 @@
 
 <div align="center">
 
-## 🤝 Work With Me
+## Work With Me
 
 | Hire me for | What you get |
 |-------------|--------------|
-| 🧠 **Applied ML & LLM apps** | RAG, agents and fine-tuned models taken from prototype to a deployed API |
-| 👁️ **Computer vision** | Medical imaging, deepfake / media-authenticity detection, on-device inference |
-| 🎙️ **Voice AI** | Multilingual and full-duplex voice agents |
-| 🏗️ **Full-stack delivery** | FastAPI + React backends, Docker, AWS, Vercel |
+| **Applied ML & LLM apps** | RAG, agents and fine-tuned models taken from prototype to a deployed API |
+| **Computer vision** | Medical imaging, deepfake / media-authenticity detection, on-device inference |
+| **Voice AI** | Multilingual and full-duplex voice agents |
+| **Full-stack delivery** | FastAPI + React backends, Docker, AWS, Vercel |
 
 **Open to:** full-time AI/ML engineering roles · data-science positions · freelance projects · research collaborations
 
-📩 Best way to reach me: [email](mailto:muhammedsayeedurrahman@gmail.com) or [LinkedIn](https://www.linkedin.com/in/muhammed-sayeedur-rahman-439389324)
+Best way to reach me: [email](mailto:muhammedsayeedurrahman@gmail.com) or [LinkedIn](https://www.linkedin.com/in/muhammed-sayeedur-rahman-439389324)
 
 </div>
 
@@ -237,7 +190,7 @@
 
 <div align="center">
 
-## 📫 Reach Me
+## Contact
 
 <table>
   <tr>
@@ -274,8 +227,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling"/>
-
-### Show some ❤️ by starring some repositories!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Muhammed%20Sayeedur%20Rahman&fontSize=40&fontColor=fff&animation=twinkling"/>
 
 </div>
