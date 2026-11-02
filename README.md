@@ -33,7 +33,7 @@
 - **Chakravyuha** — voice-first, multilingual legal assistant
 - **Hearback** — voice agent that relays only verified clinical facts
 
-Open to full-time AI/ML roles and freelance ML/data-science work — [portfolio](https://portfolio-omega-ruddy-94.vercel.app).
+More of my work: [portfolio](https://portfolio-omega-ruddy-94.vercel.app).
 
 
 </div>
@@ -151,18 +151,6 @@ Open to full-time AI/ML roles and freelance ML/data-science work — [portfolio]
 
 </div>
 
----------------|---------|---------|
-| **Kaggle MedGemma Impact Challenge** | Feb 2026 | [ExplainMyXray](https://github.com/muhammedsayeedurrahman/ExplainMyXray) |
-| **Meta PyTorch OpenEnv Hackathon** | Aug 2026 | [MOGUL Logistics](https://github.com/muhammedsayeedurrahman/mogul-logistics) |
-| **Odoo x NMIT Hackathon 2026** | Aug 2026 | [Dayflow HRMS](https://github.com/muhammedsayeedurrahman/dayflow-hrms-2026) |
-| **HackHustle 2026** | Mar 2026 | [SmartRoute](https://github.com/muhammedsayeedurrahman/SmartRoute) |
-| **Smart India Hackathon 2026** — ISRO, SIH26168 | Sep 2026 | [ShadowNav](https://github.com/muhammedsayeedurrahman/ShadowNav) |
-| **iQOO Hackathon 2026** — Chennai City Battle | Sep 2026 | [SmartLease Edge](https://github.com/muhammedsayeedurrahman/smartlease-edge-chennai) |
-| **DataForge × Pathway × Rime** | Sep 2026 | [Hearback](https://github.com/muhammedsayeedurrahman/hearback) |
-| **WeMakeDevs Hackathon** | Oct 2026 | [HeatGuard](https://github.com/muhammedsayeedurrahman/heatguard) |
-
-</div>
-
 ---
 
 <div align="center">
@@ -177,20 +165,6 @@ Open to full-time AI/ML roles and freelance ML/data-science work — [portfolio]
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammedsayeedurrahman/muhammedsayeedurrahman/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhammedsayeedurrahman/muhammedsayeedurrahman/output/github-contribution-grid-snake.svg">
 </picture>
-
-</div>
-
----
-
----------|--------------|
-| **Applied ML & LLM apps** | RAG, agents and fine-tuned models taken from prototype to a deployed API |
-| **Computer vision** | Medical imaging, deepfake / media-authenticity detection, on-device inference |
-| **Voice AI** | Multilingual and full-duplex voice agents |
-| **Full-stack delivery** | FastAPI + React backends, Docker, AWS, Vercel |
-
-**Open to:** full-time AI/ML engineering roles · data-science positions · freelance projects · research collaborations
-
-Best way to reach me: [email](mailto:muhammedsayeedurrahman@gmail.com) or [LinkedIn](https://www.linkedin.com/in/muhammed-sayeedur-rahman-439389324)
 
 </div>
 
