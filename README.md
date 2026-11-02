@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Muhammed%20Sayeedur%20Rahman&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20Deployed%20ML%20Systems&descSize=20&descAlignY=55"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+%7C+Data+Scientist+%7C+Problem+Solver;Medical+AI+%E2%80%A2+Legal+Tech+%E2%80%A2+Social+Impact;Voice+AI+%E2%80%A2+NLP+%E2%80%A2+Reinforcement+Learning;Open+to+AI%2FML+roles+%26+freelance+projects+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+%7C+Data+Scientist+%7C+Problem+Solver;Medical+AI+%E2%80%A2+Legal+Tech+%E2%80%A2+Social+Impact;Voice+AI+%E2%80%A2+NLP+%E2%80%A2+Reinforcement+Learning;Building+deployed+ML+systems+end+to+end" alt="Typing SVG" /></a>
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=muhammedsayeedurrahman&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -27,14 +27,13 @@
 
 **AI Engineer & Data Scientist** based in Chennai, India — I build applied ML products end-to-end, from model to production, across healthcare, legal-tech, and voice AI.
 
-- Hackathon builds across healthcare, legal tech, logistics and voice AI, including the Kaggle MedGemma Impact Challenge and Smart India Hackathon 2026
+- **ShadowNav** — smartphone-only vehicle dead reckoning through GPS blackouts
 - **ExplainMyXray** — chest X-ray interpretation with disease localisation (MedGemma-4B)
 - **LAWTRIX** — compliance engine for Indian MSME payment laws
 - **Chakravyuha** — voice-first, multilingual legal assistant
 - **Hearback** — voice agent that relays only verified clinical facts
-- **ShadowNav** — smartphone-only dead reckoning through GPS blackouts (SIH26168, ISRO)
 
-Open to full-time AI/ML roles and freelance ML/data-science work — see [my portfolio](https://portfolio-omega-ruddy-94.vercel.app) or reach out via LinkedIn or email above.
+Open to full-time AI/ML roles and freelance ML/data-science work — [portfolio](https://portfolio-omega-ruddy-94.vercel.app).
 
 
 </div>
@@ -133,12 +132,26 @@ Open to full-time AI/ML roles and freelance ML/data-science work — see [my por
 
 ---
 
-## Hackathons & Challenges
+## Selected Work
 
 <div align="center">
 
-| Event | Date | Project |
-|---------------|---------|---------|
+| Project | What it does | Built with |
+|---------|--------------|------------|
+| [**ShadowNav**](https://github.com/muhammedsayeedurrahman/ShadowNav) | Vehicle dead reckoning from phone IMU alone, holding position through GNSS blackouts. Data pipeline, filter, CNN+GRU speed model, evaluation harness (79 sessions, 991 scored outages) and a Kotlin Android app proved numerically identical to the Python estimator. | Python, PyTorch, Kotlin, WebGL |
+| [**ExplainMyXray**](https://github.com/muhammedsayeedurrahman/ExplainMyXray) | Chest X-ray interpretation: 14 pathologies, region localisation and plain-language explanations on MedGemma-4B. Kaggle MedGemma Impact Challenge submission. | Python, MedGemma |
+| [**Chakravyuha**](https://github.com/muhammedsayeedurrahman/chakravyuha) | Voice-first legal assistant that drafts complaints in Hindi, English, Tamil, Telugu and Bengali. | Python, TypeScript, ASR/TTS |
+| [**Hearback**](https://github.com/muhammedsayeedurrahman/hearback) | Full-duplex voice agent for clinical handovers. Tracks each fact as heard, corrected or verified, cuts stale speech on barge-in and relays only verified facts. | Python, TypeScript, Rime |
+| [**LAWTRIX**](https://github.com/muhammedsayeedurrahman/LAWTRIX) | Compliance engine for Indian MSME payment laws: deadline tracking, risk scoring, alerts and document generation. | Python, TypeScript |
+| [**MOGUL Logistics**](https://github.com/muhammedsayeedurrahman/mogul-logistics) | RL environment for training agents to resolve freight exceptions across India. Built on Meta OpenEnv and deployed on Hugging Face Spaces. | Python, FastAPI, Docker |
+| [**SmartLease Edge**](https://github.com/muhammedsayeedurrahman/smartlease-edge-chennai) | Offline, on-device rental move-out inspection: vision model, acoustic tap test, costing and a SHA-256-sealed PDF report. Photos never leave the phone. | Kotlin, Python |
+| [**ProofyX**](https://github.com/muhammedsayeedurrahman/ai-authenticity-checker) | Multimodal deepfake detection with a 7-model ensemble, GradCAM explanations and a REST API. | PyTorch, FastAPI, Gradio |
+| [**SmartRoute**](https://github.com/muhammedsayeedurrahman/SmartRoute) | Last-mile delivery intelligence: address scoring, KMeans clustering, risk map and ROI dashboard. | React, FastAPI |
+| [**Dayflow HRMS**](https://github.com/muhammedsayeedurrahman/dayflow-hrms-2026) | HR system with role-based attendance, leave and payroll, backed by an Express/Prisma API. | TypeScript, Prisma |
+
+</div>
+
+---------------|---------|---------|
 | **Kaggle MedGemma Impact Challenge** | Feb 2026 | [ExplainMyXray](https://github.com/muhammedsayeedurrahman/ExplainMyXray) |
 | **Meta PyTorch OpenEnv Hackathon** | Aug 2026 | [MOGUL Logistics](https://github.com/muhammedsayeedurrahman/mogul-logistics) |
 | **Odoo x NMIT Hackathon 2026** | Aug 2026 | [Dayflow HRMS](https://github.com/muhammedsayeedurrahman/dayflow-hrms-2026) |
@@ -169,12 +182,7 @@ Open to full-time AI/ML roles and freelance ML/data-science work — see [my por
 
 ---
 
-<div align="center">
-
-## Work With Me
-
-| Hire me for | What you get |
-|-------------|--------------|
+---------|--------------|
 | **Applied ML & LLM apps** | RAG, agents and fine-tuned models taken from prototype to a deployed API |
 | **Computer vision** | Medical imaging, deepfake / media-authenticity detection, on-device inference |
 | **Voice AI** | Multilingual and full-duplex voice agents |
