@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Muhammed%20Sayeedur%20Rahman&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20Building%20the%20Future%20with%20AI&descSize=20&descAlignY=55"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+%7C+Data+Scientist+%7C+Problem+Solver;Medical+AI+%E2%80%A2+Legal+Tech+%E2%80%A2+Social+Impact;Voice+AI+%E2%80%A2+NLP+%E2%80%A2+Reinforcement+Learning;Building+AI+that+makes+a+difference+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+%7C+Data+Scientist+%7C+Problem+Solver;Medical+AI+%E2%80%A2+Legal+Tech+%E2%80%A2+Social+Impact;Voice+AI+%E2%80%A2+NLP+%E2%80%A2+Reinforcement+Learning;Open+to+AI%2FML+roles+%26+freelance+projects+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=muhammedsayeedurrahman&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/muhammed-sayeedur-rahman-439389324"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:muhammedsayeedurrahman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.kaggle.com/sayedash70"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
-  <a href="https://www.github.com/muhammedsayeedurrahman"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://portfolio-omega-ruddy-94.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 </div>
@@ -35,8 +35,10 @@
 - 🩺 **ExplainMyXray** — diagnostic AI for underserved clinics
 - ⚖️ **LAWTRIX** — AI-powered legal assistant
 - 🗣️ **Chakravyuha** — multilingual voice AI
+- 🎙️ **Hearback** — voice agent that relays only verified clinical facts
+- 📱 **SmartLease Edge** — offline on-device property inspection on Snapdragon
 
-💼 Open to full-time AI/ML roles and freelance ML/data-science work — reach out via LinkedIn or email above.
+💼 Open to full-time AI/ML roles and freelance ML/data-science work — see [my portfolio](https://portfolio-omega-ruddy-94.vercel.app) or reach out via LinkedIn or email above.
 
 </td>
 <td width="42%" valign="middle" align="center">
@@ -63,21 +65,36 @@
 
 <div align="center">
 
-<!-- Project Cards -->
-<a href="https://github.com/muhammedsayeedurrahman/LAWTRIX">
-  <img align="center" src="https://sayeed-github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=LAWTRIX&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
+<a href="https://github.com/muhammedsayeedurrahman/ExplainMyXray">
+  <img align="center" src="https://sayeed-github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=ExplainMyXray&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
 </a>
 
 <a href="https://github.com/muhammedsayeedurrahman/chakravyuha">
   <img align="center" src="https://sayeed-github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=chakravyuha&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
 </a>
 
-<a href="https://github.com/muhammedsayeedurrahman/ExplainMyXray">
-  <img align="center" src="https://sayeed-github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=ExplainMyXray&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
+<a href="https://github.com/muhammedsayeedurrahman/hearback">
+  <img align="center" src="https://sayeed-github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=hearback&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
+</a>
+
+<a href="https://github.com/muhammedsayeedurrahman/LAWTRIX">
+  <img align="center" src="https://sayeed-github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=LAWTRIX&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
 </a>
 
 <a href="https://github.com/muhammedsayeedurrahman/mogul-logistics">
   <img align="center" src="https://sayeed-github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=mogul-logistics&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
+</a>
+
+<a href="https://github.com/muhammedsayeedurrahman/ai-authenticity-checker">
+  <img align="center" src="https://sayeed-github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=ai-authenticity-checker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
+</a>
+
+<a href="https://github.com/muhammedsayeedurrahman/smartlease-edge-chennai">
+  <img align="center" src="https://sayeed-github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=smartlease-edge-chennai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
+</a>
+
+<a href="https://github.com/muhammedsayeedurrahman/heatguard">
+  <img align="center" src="https://sayeed-github-readme-stats.vercel.app/api/pin/?username=muhammedsayeedurrahman&repo=heatguard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
 </a>
 
 </div>
@@ -129,9 +146,6 @@
 
 <img height="180em" src="https://sayeed-github-readme-stats.vercel.app/api/top-langs/?username=muhammedsayeedurrahman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedsayeedurrahman&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9"/>
-
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph-gamma-flame.vercel.app/graph?username=muhammedsayeedurrahman&bg_color=0D1117&color=58A6FF&line=79C0FF&point=C9D1D9&area=true&hide_border=true"/>
 
@@ -167,7 +181,7 @@
 
 ---
 
-## 🏅 Achievements & Hackathons
+## 🏅 Hackathons & Challenges
 
 <div align="center">
 
@@ -177,6 +191,9 @@
 | **Meta PyTorch OpenEnv Hackathon** | Aug 2026 | [MOGUL Logistics](https://github.com/muhammedsayeedurrahman/mogul-logistics) |
 | **Odoo x NMIT Hackathon 2026** | Aug 2026 | [Dayflow HRMS](https://github.com/muhammedsayeedurrahman/dayflow-hrms-2026) |
 | **HackHustle 2026** | Mar 2026 | [SmartRoute](https://github.com/muhammedsayeedurrahman/SmartRoute) |
+| **iQOO Hackathon 2026** — Chennai City Battle | Sep 2026 | [SmartLease Edge](https://github.com/muhammedsayeedurrahman/smartlease-edge-chennai) |
+| **DataForge × Pathway × Rime** | Sep 2026 | [Hearback](https://github.com/muhammedsayeedurrahman/hearback) |
+| **WeMakeDevs Hackathon** | Oct 2026 | [HeatGuard](https://github.com/muhammedsayeedurrahman/heatguard) |
 
 </div>
 
@@ -201,29 +218,18 @@
 
 <div align="center">
 
-## 💬 Random Dev Quote
+## 🤝 Work With Me
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+| Hire me for | What you get |
+|-------------|--------------|
+| 🧠 **Applied ML & LLM apps** | RAG, agents and fine-tuned models taken from prototype to a deployed API |
+| 👁️ **Computer vision** | Medical imaging, deepfake / media-authenticity detection, on-device inference |
+| 🎙️ **Voice AI** | Multilingual and full-duplex voice agents |
+| 🏗️ **Full-stack delivery** | FastAPI + React backends, Docker, AWS, Vercel |
 
-</div>
+**Open to:** full-time AI/ML engineering roles · data-science positions · freelance projects · research collaborations
 
----
-
-<div align="center">
-
-## 🤝 Let's Collaborate!
-
-I'm passionate about:
-- 🏥 **Healthcare AI** — Making diagnostics accessible
-- ⚖️ **Legal Tech** — Democratizing legal access
-- 🌍 **Social Impact** — AI for underserved communities
-- 🎤 **Voice AI** — Multilingual, low-literacy interfaces
-
-**Open to:**
-- Full-time AI/ML Engineering roles
-- Data Science positions (Healthcare, LegalTech)
-- Research collaborations
-- Open source contributions
+📩 Best way to reach me: [email](mailto:muhammedsayeedurrahman@gmail.com) or [LinkedIn](https://www.linkedin.com/in/muhammed-sayeedur-rahman-439389324)
 
 </div>
 
@@ -254,30 +260,13 @@ I'm passionate about:
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://www.github.com/muhammedsayeedurrahman">
-        <img src="https://img.icons8.com/fluency/96/twitter.png" width="64"/>
-        <br><b>Twitter</b>
+      <a href="https://portfolio-omega-ruddy-94.vercel.app">
+        <img src="https://img.icons8.com/fluency/96/internet.png" width="64"/>
+        <br><b>Portfolio</b>
       </a>
     </td>
   </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Fun Facts
-
-```javascript
-const funFacts = {
-    coffee: "☕ Powered by coffee and curiosity",
-    language: "🗣️ Speaks: Tamil, English, Hindi, Python",
-    hobbies: "🎯 Chess, Cricket, Building AI that matters",
-    motto: "💡 'AI should serve humanity, not replace it'"
-};
-```
 
 </div>
 
