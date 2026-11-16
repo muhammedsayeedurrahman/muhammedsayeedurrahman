@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Muhammed%20Sayeedur%20Rahman&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20Deployed%20ML%20Systems&descSize=20&descAlignY=55"/>
 
